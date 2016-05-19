@@ -1,6 +1,6 @@
 [plugin]
-name = "dokku-apt"
-description = "Inject deb packages into dokku based on files in project"
+name = "dokku-php-newrelic"
+description = "Install Newrelic for PHP setups"
 version = "0.4.0"
-website_url = "https://github.com/F4-Group/dokku-apt"
+website_url = "https://github.com/CreativeGS/dokku-php-newrelic"
 [plugin.config]
